@@ -1,0 +1,30 @@
+.wrapper_c{
+	background-color: #000;
+	opacity: 0.6;
+	height:1024px;
+	width:2310px;
+}
+.logo_wrap{
+	height: 250px;
+	text-align: center;
+	color:#fff;
+	line-height: 250px;
+}
+.catgery_wrap{
+	background-color: #000;
+	opacity: 0.6;
+	/*padding:0 5px 5px 0;*/
+	clear: both;
+}
+.catgery_wrap .page_cw{
+	float: left;
+	width:768px;
+}
+.catgery_wrap .page_cw span{
+	display: inline-block;
+	margin: 0px 5px 5px 0;
+	background-color: #fff;
+}
+.catgery_wrap .page_cw span img{
+	padding: 2px;
+}
